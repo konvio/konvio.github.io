@@ -11,6 +11,8 @@ defaultcontentlanguage = "en"
   keywords = "blog,developer,personal"
   avatarURL = "/images/avatar.png"
 
+  favicon_32 = "/images/indigo.png"
+
 
   colorScheme = "dark"
 
