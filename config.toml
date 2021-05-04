@@ -1,3 +1,44 @@
-baseURL = "https://kononenko.tech/"
-languageCode = "en-us"
+baseurl = "https://kononenko.tech"
 title = "Vitaliy Kononenko"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[params]
+  author = "Vitaliy Kononenko"
+  info = "Software Engineer"
+  description = "Vitaliy Kononenko's personal website"
+  keywords = "blog,developer,personal"
+  avatarURL = "/images/avatar.png"
+
+
+  colorScheme = "dark"
+
+  footercontent = "Keep It Simple!"
+  hideFooter = false
+  hideCredits = true
+  hideCopyright = true
+  since = 2019
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/konvio/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 2
+  url = "https://twitter.com/techKononenko/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://twitter.com/techKononenko/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "https://blog.kononenko.tech"
