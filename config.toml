@@ -23,7 +23,7 @@ defaultcontentlanguage = "en"
   since = 2019
 
 # Social links
-[[params.social]]
+[[params.social]]356
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
@@ -37,7 +37,7 @@ defaultcontentlanguage = "en"
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 3
-  url = "https://twitter.com/techKononenko/"
+  url = "https://www.linkedin.com/in/konvio/"
 
 # Menu links
 [[menu.main]]
