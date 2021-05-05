@@ -20,10 +20,10 @@ defaultcontentlanguage = "en"
   hideFooter = false
   hideCredits = true
   hideCopyright = true
-  since = 2019
+  since = 2015
 
 # Social links
-[[params.social]]356
+[[params.social]]
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
