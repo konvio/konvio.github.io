@@ -4,6 +4,8 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
+googleAnalytics = "G-T5PVYQ7J7E"
+
 [params]
   author = "Vitaliy Kononenko"
   info = "Software Engineer"
